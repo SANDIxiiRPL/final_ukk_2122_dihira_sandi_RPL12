@@ -1,0 +1,8 @@
+NIK|NAMA LENGKAP
+
+1222|adi
+00|1
+|2
+|a
+|9
+7|7

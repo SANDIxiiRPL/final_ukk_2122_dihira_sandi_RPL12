@@ -1,0 +1,7 @@
+NIK|NAMA LENGKAP|TANGGAL|WAKTU|KEGIATAN|HASIL
+
+1222|adi|2022-05-10|09:45|adi pergi bermain ke sekolah|sukses berjalan sesuai rencana
+1222|adi|2022-05-10|10:05|jono main|jono selesai main
+00|1|2022-05-04|12:48|r3r|3w
+7|7|2022-05-19|11:18|adi pergi bermain ke sekolah|jkgjlgli
+7|7|2022-05-17|11:22|WDFHBDFRH|HSTJH
